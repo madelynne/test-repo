@@ -8,3 +8,6 @@
 
 *italic*
 ## new branch test
+Editing a text file in rstudio
+#looooooollllllooolll
+***test***
